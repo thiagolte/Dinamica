@@ -88,7 +88,7 @@ header{
 .container_menu {
 	width: 100%;
 	float: left;
-	background:#b8b8b8;
+	background:#edba50;
 	height:40px;
 }
 
@@ -107,7 +107,7 @@ menu {
 	width: 1003px;
 	margin: 0 auto;
 	height:40px;
-	background: #b8b8b8;
+	background: #edba50;
 	box-sizing:border-box;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
