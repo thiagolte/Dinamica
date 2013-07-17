@@ -87,6 +87,16 @@
         </div>
 			
         <div class="container">
+            <p>
+            A DINÂMICA está habilitada e cadastrada no Instituto Nacional de Propriedade Industrial (INPI) como 
+            Agente da Propriedade Industrial (API) sob o número <span class="DestaquePreto">2076</span>.
+            </br></br>
+            Recomenda-se que o interessado em contratar uma empresa de marcas e patentes verifique a matrícula desta empresa junto ao governo INPI antes de contratar o serviço.
+            </p>
+
+            </br>
+            </br>
+            
             <h1>Importância do Registro da Marca</h1>
             <hr />
             <p>
