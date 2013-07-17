@@ -24,6 +24,7 @@
 		<style>
 			.quem_somos {
 				background-color:#999;
+                                color: #ffffff;
 			}
 		</style>
 		

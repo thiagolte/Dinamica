@@ -138,26 +138,25 @@ menu li:last-child > a {background-image: none;}
 
 @-webkit-keyframes color {
 	from {background-color: transparent; color: #ececec;}
-	to {background-color: #a5a5a5; color: #ffffff;}
+	to {background-color: #a5a5a5; color: #000;}
 }
 
 @-moz-keyframes color {
 	from {background: transparent; color: #ececec;}
-	to {background: #a5a5a5; color: #ffffff;}
+	to {background: #a5a5a5; color: #000;}
 }
 
 @-o-keyframes color {
 	from {background: transparent; color: #ececec;}
-	to {background: #a5a5a5; color: #ffffff;}
+	to {background: #a5a5a5; color: #000;}
 }
 
 @keyframes color {
 	from {background: transparent; color: #ececec;}
-	to {background: #a5a5a5; color: #ffffff;}
+	to {background: #a5a5a5; color: #000;}
 }
 
 menu li a:hover{
-	color: #ffffff;
 	background-color:#a5a5a5;
 	-webkit-animation: color 0.25s steps(1, end);
 	-webkit-animation-timing-function:linear;	

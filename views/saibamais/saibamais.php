@@ -24,6 +24,7 @@
 		<style>
 			.saiba_mais {
 				background-color:#999;
+                                color: #ffffff;
 			}
 		</style>
 		

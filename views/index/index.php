@@ -59,6 +59,7 @@
         <style>
                 .home {
                         background-color:#999;
+                        color: #ffffff;
                 }
         </style>
 
