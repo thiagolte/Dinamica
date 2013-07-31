@@ -33,13 +33,14 @@
 		</style>
 		
 		<div class="container_menu">
-			<menu>
-                        <li><a href="?index" class="home">Página Inicial</a></li>
+                    <menu>
+                        <li><a href="?index" class="home">Início</a></li>
                         <li><a href="?formulario" class="form">Consulte sua Marca</a></li>
-                        <li><a href="?saibamais" class="saiba_mais">Perguntas Frequentes</a></li>
+                        <li><a href="?saibamais" class="saiba_mais">Perguntas</a></li>
+                        <li><a href="?etapas" class="etapas">Etapas do Registro</a></li>
                         <li><a href="?quemsomos" class="quem_somos">Quem Somos</a></li>
                         <li><a href="?politica" class="politica">Política de Privacidade</a></li>
-			</menu>
+                    </menu>
 		</div>	
 
         <span class="spacer"></span>

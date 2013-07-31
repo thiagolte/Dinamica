@@ -64,13 +64,14 @@
         </style>
 
         <div class="container_menu">
-                <menu>
-                        <li><a href="?index" class="home">Página Inicial</a></li>
-                        <li><a href="?formulario" class="form">Consulte sua Marca</a></li>
-                        <li><a href="?saibamais" class="saiba_mais">Perguntas Frequentes</a></li>
-                        <li><a href="?quemsomos" class="quem_somos">Quem Somos</a></li>
-                        <li><a href="?politica" class="politica">Política de Privacidade</a></li>
-                </menu>
+            <menu>
+                <li><a href="?index" class="home">Início</a></li>
+                <li><a href="?formulario" class="form">Consulte sua Marca</a></li>
+                <li><a href="?saibamais" class="saiba_mais">Perguntas</a></li>
+                <li><a href="?etapas" class="etapas">Etapas do Registro</a></li>
+                <li><a href="?quemsomos" class="quem_somos">Quem Somos</a></li>
+                <li><a href="?politica" class="politica">Política de Privacidade</a></li>
+            </menu>
         </div>	
 		
         <span class="spacer"></span>
@@ -123,7 +124,7 @@
 
                 <br/><br/>
 
-                <a href="?formulario" class="botao">Clique aqui e consulte sua marca (grátis)</a>
+                <a href="?formulario" class="botao">SOLICITE A PESQUISA DE SUA MARCA (GRÁTIS) clique aqui</a>
 
                 <br><br/><br/>
 
@@ -162,7 +163,7 @@
                     </h1>
                 </p>
                 
-                <a href="?formulario" class="botao">Clique aqui e consulte sua marca (grátis)</a>
+                <a href="?formulario" class="botao">SOLICITE A PESQUISA DE SUA MARCA (GRÁTIS) clique aqui</a>
 
             </div>
         </div>
