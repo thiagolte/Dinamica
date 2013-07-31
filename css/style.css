@@ -73,6 +73,10 @@ header{
     color: red;
 }
 
+.link{
+    text-decoration: underline;
+}
+
 .logo {
 	width: 441px;
 	height:101px;

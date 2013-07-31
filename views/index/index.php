@@ -124,6 +124,14 @@
 
                 <br/><br/>
 
+                <a href="?etapas" class="link">Esse deve ser um dos primeiros passos de qualquer nova MARCA. (clique aqui)</a></br></br>
+
+                Antes de investir dinheiro na criação e divulgação de sua marca 
+                faça uma busca prévia com o intuito de verificar se a MARCA 
+                foi anteriormente depositada / registrada. Às vezes algum 
+                concorrente já possui o Registro desta marca, podendo 
+                proibir que você a utilize.</br></br>
+                
                 <a href="?formulario" class="botao">SOLICITE A PESQUISA DE SUA MARCA (GRÁTIS) clique aqui</a>
 
                 <br><br/><br/>

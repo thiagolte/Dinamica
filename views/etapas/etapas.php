@@ -99,22 +99,6 @@
                     5. Ação de nulidade: até cinco anos após a concessão da 
                     marca, poder-se-á iniciar ação de nulidade (esfera judicial).</br></br>
 
-                    <span class="Alerta">
-                    ATENÇÃO!</br>
-                    Os valores acima são FIXOS e referentes aos Honorários.</br></br>
-                    IMPORTANTE: Nós NÃO cobramos Honorários para “Publicação do Processo”, “Deferimento do Processo” e “Entrega de Certificado”.</br></br>
-                        <span style="width: 100%; float: left; text-align: center">(NORMALMENTE COBRADO PELA CONCORRÊNCIA).</span>
-                    </span>
-
-
-                    Esse deve ser um dos primeiros passos de qualquer nova MARCA.</br></br>
-
-                    Antes de investir dinheiro na criação e divulgação de sua marca 
-                    faça uma busca prévia com o intuito de verificar se a MARCA 
-                    foi anteriormente depositada / registrada. Às vezes algum 
-                    concorrente já possui o Registro desta marca, podendo 
-                    proibir que você a utilize.</br></br>
-
                     <a href="?formulario" class="botao">SOLICITE A PESQUISA DE SUA MARCA (GRÁTIS) clique aqui</a>
 
                 </p>
