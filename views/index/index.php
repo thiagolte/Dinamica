@@ -124,7 +124,7 @@
 
                 <br/><br/>
 
-                <a href="?etapas" class="link">Esse deve ser um dos primeiros passos de qualquer nova MARCA. (clique aqui)</a></br></br>
+                <span class="DestaquePreto">Esse deve ser um dos primeiros passos de qualquer nova MARCA.</span></br></br>
 
                 Antes de investir dinheiro na criação e divulgação de sua marca 
                 faça uma busca prévia com o intuito de verificar se a MARCA 
