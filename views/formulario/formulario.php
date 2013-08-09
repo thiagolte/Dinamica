@@ -25,23 +25,23 @@
             </div>
         </header>
 		
-		<style>
-			.form {
-				background-color:#999;
-                                color: #ffffff;
-			}
-		</style>
+        <style>
+            .form {
+                background-color:#999;
+                color: #ffffff;
+            }
+        </style>
 		
-		<div class="container_menu">
-                    <menu>
-                        <li><a href="?index" class="home">Início</a></li>
-                        <li><a href="?formulario" class="form">Consulte sua Marca</a></li>
-                        <li><a href="?saibamais" class="saiba_mais">Perguntas</a></li>
-                        <li><a href="?etapas" class="etapas">Etapas do Registro</a></li>
-                        <li><a href="?quemsomos" class="quem_somos">Quem Somos</a></li>
-                        <li><a href="?politica" class="politica">Política de Privacidade</a></li>
-                    </menu>
-		</div>	
+        <div class="container_menu">
+            <menu>
+                <li><a href="?index" class="home">Início</a></li>
+                <li><a href="?formulario" class="form">Consulte sua Marca</a></li>
+                <li><a href="?saibamais" class="saiba_mais">Perguntas</a></li>
+                <li><a href="?etapas" class="etapas">Etapas do Registro</a></li>
+                <li><a href="?quemsomos" class="quem_somos">Quem Somos</a></li>
+                <li><a href="?politica" class="politica">Política de Privacidade</a></li>
+            </menu>
+        </div>	
 
         <span class="spacer"></span>
         <div class="ct">
@@ -85,8 +85,8 @@
                         <tr>
                             <td colspan="2">
                                 <label>Modelo de contrato pretendido</label>
-                                <input name="Modelo" type="radio" value="R$990,00 em até 3X (sem juros)" checked>R$990,00 em até 3X (sem juros)</input> </br>
-                                <input name="Modelo" type="radio" value="R$1.900,00 em até 10X (sem juros)">R$1.900,00 em até 10X (sem juros)</input>
+                                <input name="Modelo" type="radio" value="R$990,00 em até 3X (sem juros)" checked><span class="LetraMaior">R$990,00 em até 3X (sem juros) Até 3 marcas</span></input> </br>
+                                <input name="Modelo" type="radio" value="R$1.900,00 em até 10X (sem juros)"><span class="LetraMaior">R$1.900,00 em até 10X (sem juros) Até 8 marcas</span></input>
                             </td>
                         <tr>
                             <td>
