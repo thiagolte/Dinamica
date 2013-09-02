@@ -1,0 +1,32 @@
+RewriteEngine On
+
+RewriteRule ^home$ index.php
+RewriteRule ^a-umanni$ a-umanni.php
+RewriteRule ^live-2-business$ live-2-business.php
+RewriteRule ^solucoes$ solucoes.php
+RewriteRule ^tecnologia$ tecnologia.php
+RewriteRule ^conceitos$ conceitos.php
+RewriteRule ^parceiros$ parceiros.php
+RewriteRule ^contato$ contato.php
+RewriteRule ^conhecimento$ conhecimento.php
+RewriteRule ^evolucao-profissinal$ evolucao-profissinal.php
+RewriteRule ^portal-de-relacionamento$ portal-de-relacionamento.php
+RewriteRule ^gestao-de-performance$ gestao-de-performance.php
+RewriteRule ^central-de-desenvolvimento$ central-de-desenvolvimento.php
+RewriteRule ^gestao-de-conhecimento$ gestao-de-conhecimento.php
+RewriteRule ^estrutura-organizacional$ estrutura-organizacional.php
+RewriteRule ^painel-de-gestao$ painel-de-gestao.php
+RewriteRule ^avaliacao-e-campanhas$ avaliacao-e-campanhas.php
+RewriteRule ^evolucao-profissional$ evolucao-profissional.php
+RewriteRule ^atracao-de-desenvolvimento$ atracao-de-desenvolvimento.php
+
+RewriteRule ^relacionamento$ portal-de-relacionamento.php
+RewriteRule ^painel-de-rh$ painel-de-rh.php
+RewriteRule ^carreira$ gestao-de-carreira.php
+RewriteRule ^objetivos-e-metas$ objetivos-e-metas.php
+RewriteRule ^organograma$ organograma.php
+RewriteRule ^avaliacoes$ avaliacoes-e-campanhas.php
+RewriteRule ^investimento-e-retorno$ investimento-e-retorno.php
+RewriteRule ^consultoria$ consultoria.php
+RewriteRule ^produto$ produto.php
+RewriteRule ^atracao-e-captacao$ atracao-e-captacao.php

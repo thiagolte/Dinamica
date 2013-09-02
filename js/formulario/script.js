@@ -71,8 +71,6 @@ $(document).ready(function() {
                 url: "index.php?formulario",
                 type: "GET",
                 data: {Empresa:$('#Empresa').attr('value'),
-                        CNPJ:$('#CNPJ').attr('value'),
-                        Ramo:$('#Ramo').attr('value'),
                         Contato:$('#Contato').attr('value'),
                         Telefone:$('#Telefone').attr('value'),
                         Celular:$('#Celular').attr('value'),

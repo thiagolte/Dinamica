@@ -79,7 +79,7 @@
                     <label>Dúvidas</label>
                     <textarea name="Duvidas" id="Duvidas"></textarea>
 
-                    <label class="strong">Marcas Pretendidas</label>
+                    <label class="strong">Digite as Marcas desejadas separadas por vírgula ","</label>
                                         
                     <table class="table_form">
                         <tr>

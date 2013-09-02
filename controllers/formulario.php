@@ -20,8 +20,8 @@ class Formulario_Controller {
                 isset($getVars['Email']) && !empty($getVars['Email']) &&
                 isset($getVars['Modelo']) && !empty($getVars['Modelo'])){
 
-            $Retorno = $Email->Enviar_Consulta_Marca($getVars['Empresa'], $getVars['CNPJ'], 
-                    $getVars['Ramo'], $getVars['Contato'], $getVars['Telefone'], $getVars['Celular'], 
+            $Retorno = $Email->Enviar_Consulta_Marca($getVars['Empresa'],
+                    $getVars['Contato'], $getVars['Telefone'], $getVars['Celular'], 
                     $getVars['Email'], $getVars['Duvidas'], $getVars['Modelo'], $getVars['Marca1'], $getVars['Marca2'], $getVars['Marca3'], 
                     $getVars['Marca4'], $getVars['Marca5'], $getVars['Marca6'], $getVars['Marca7'],
                     $getVars['Marca8']);

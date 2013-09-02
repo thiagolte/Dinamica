@@ -1,0 +1,11 @@
+1. Login to WP-admin
+
+2. Go to "Tools" menu
+
+3. Choose "Import"
+
+4. Choose "WordPress"
+
+5. Browse sample data and upload it
+
+DONE!

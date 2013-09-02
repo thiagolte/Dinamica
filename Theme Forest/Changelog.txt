@@ -1,0 +1,126 @@
+Update notes 2.6 Version (10/29/2012)
+
+ - fixed twitter widget issue
+ - fixed portfolio and single portfolio page heading description
+ - removed timthumb.php script functionality
+ - added staff custom post type
+ - added client custom post type
+ - added testimonial custom post type
+ - added client custom post type
+ - added staff page template
+ - added testimonial page template
+ - added client page template
+ - added nested comments feature
+ - added table shortcode
+ - added pricing table shortcode
+ - added more list style shortcode
+ - added custom button shortcode
+ - added columns shortcode
+ - added tabs, toggle and accordion shortcode
+ - updated comment.php file
+ - updated xml sample data
+ - updated documentation
+
+================================================
+
+Update notes 2.5 Version (12/03/2012) :
+
+ - fixed services child pages thumbnail issue
+ - fixed sendemail.php file
+ - updated google map to v3
+ - updated xml sample data
+
+================================================
+
+Update notes 2.4 Version (11/01/2011) : 
+
+ - Updated WordPress templates tag and template functions
+
+================================================
+
+Update notes 2.3 Version (10/24/2011) : 
+
+ - Fixed comment issue in single post
+ - Fixed services page thumbnail issue
+ - Fixed sendemail.php character encoding issue
+ - Fixed latest works widget thumbnail issue
+ - Updated timthumb.php script to latest version
+
+================================================
+
+Update notes 2.2 Version (07/04/2011) : 
+
+ - Fixed footer height issue
+ - Fixed services page thumbnail issue
+ - Fixed character encoding issue
+ - Fixed post to box widget
+ - Fixed page to box widget
+ - Fixed team list widget
+ - Updated documentation
+ - Updated xml sample data
+ - Added shortcode manager
+ - Added tabs shortcode
+ - Added video shortcode
+ - and more
+
+================================================
+
+Update notes 2.1 Version (04/20/2010) : 
+
+ - Fixed sidebar widgets placeholder issue
+ - Fixed "cannot modify header..." error
+
+================================================
+
+Update notes 2.0 Version (04/11/2010) :
+
+ - Fixed compability issue with WordPress 3.x version
+ - Fixed portfolio images lightbox issue
+ - Update Theme Options
+ - Update Contact page (now using Google map library)
+ - Added portfolio category filter
+ - Added styling options
+ - Added more slideshow options
+ - Added more slideshow transition
+ - Added google map shortcode
+ - Added posts list shortcode (base on category)
+ - Added Post Thumbnail feature
+ - Added shortcode filter in post excerpt 
+ - Added more options for homepage section
+ - Added more options for contact information
+ - Added favicon upload field
+ - Added twitter widget
+ - Added jqyer Gmap library
+ - Updated language translation source file (languages/vulcan.po)
+ - updated XML sample data
+ - Updated prettyPhoto library to latest version
+ - updated documentation
+
+================================================
+
+Update notes 1.2 Version (11/30/2010) :
+
+ - fixed 3 homepage boxes url
+ - fixed footer news section date issue
+ - fixed testimonial widget layout
+ - fixed services page list
+ - fixed portfolio lightbox
+ - fixed search box layout
+ - added language translation source file (languages/vulcan.po)
+ - added more shortcodes, please visit here for detail
+ - added more video support for blog and portfolio posts, please visit portfolio page for detail
+ - added meta box options for custom url for portfolio posts
+ - added columns layout option for portfolio page in theme options
+ - added option to disable author box in theme options
+ - added cufon font with foreign language character support
+ - updated documentation
+
+================================================
+
+Update notes 1.1 Version :
+
+ - fixed 3 column homepage title and image issue
+ - added linkable title to services child pages
+ - added destination url option for 3 column homepage box
+ - added slideshow speed setting in theme options
+ - update default sidebar for single page
